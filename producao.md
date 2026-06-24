@@ -68,4 +68,4 @@
 ***
 
 
-
+|  | Requisito Funcional | Regra de negocio
