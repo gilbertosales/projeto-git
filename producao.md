@@ -77,3 +77,29 @@
 
 > Regra de negócio não documentada é a principal causa de dashboards inconsistentes
 
+***
+
+## PRD NO MUNDO DA IA
+
+> Especificações estruturadas deixaram de ser documentação. Agora são input direto para IAs que constroem:
+
+| **Código** |
+| **Queries** |
+| **Pipelines** |
+| **Análise** |
+
+**Antes da IA**
+Ambiguidade -> Alinhamento -> Execução
+
+| Antes da IA | Agora |
+|---|---|
+| Ambiguidade -> Alinhamento -> Execução | Ambiguidade -> Interpretação automática -> Erro em escala|
+| alguém pergunta | a IA não pergunta |
+| alguém responde | ela interpreta |
+| o time converge | ela executa |
+| o custo é distribuído| o erro escala rápido
+
+> A qualidade do que você constrói com IA é limitada pela qualidade do que você consegue especificar.
+
+***
+
