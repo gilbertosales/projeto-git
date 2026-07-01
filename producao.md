@@ -68,4 +68,12 @@
 ***
 
 
-|  | Requisito Funcional | Regra de negocio
+ || Requisito Funcional | Regra de negocio
+|:---:|:---:|:---:|
+ Descrever | O que o sistema faz | A lógica que governa o comportamento
+|Exemplo | Cliente vê relatório de uso de funcionalidades da plataforma | Funcionalidades com uso < 30 dias não entram no cálculo de adoção
+|Origem | Produto | Operação, Jurídico, Compliance
+
+
+> Regra de negócio não documentada é a principal causa de dashboards inconsistentes
+
